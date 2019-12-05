@@ -69,6 +69,10 @@ A la fin de ce module votre rapport doit contenir en plus des graphiques demand�
 
 A la fin de ces modules votre rapport doit contenir au moins 2 tableaux qui décrivent les données. N'hésitez pas à retravailler le tableau de données si nécessaire.
 
+### Challenge
+
+Une série d'exercices vous sont proposé à la fin du module 5 sous la forme d'un challenge. Consignez le résultat de vos exercices dans un fichier Rmd spécifique.
+
 ----
 
 
